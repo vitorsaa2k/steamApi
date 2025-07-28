@@ -1,5 +1,5 @@
 {
-  "name": "api-steam",
+  "name": "@vitorsaa2k/steamapi",
   "version": "0.0.1",
   "description": "type-safe SteamWebApi wrapper",
   "author": {
