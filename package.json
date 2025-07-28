@@ -1,8 +1,22 @@
 {
+  "name": "steam-api",
+  "version": "0.0.1",
+  "description": "type-safe SteamWebApi wrapper",
+  "author": {
+    "name": "Vitor Adriel Silva",
+    "email": "vitoradriel@gmail.com",
+    "url": "https://linkedin.com/in/vitor-adriels"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/vitorsaa2k/steamApi.git"
+  },
   "devDependencies": {
     "tsx": "^4.20.3"
   },
   "type": "module",
-  "name": "steam-api",
-  "version": "0.0.1"
+  "keywords": [
+    "steam",
+    "api"
+  ]
 }
