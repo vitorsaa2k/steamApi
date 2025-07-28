@@ -2,5 +2,7 @@
   "devDependencies": {
     "tsx": "^4.20.3"
   },
-  "type": "module"
+  "type": "module",
+  "name": "steam-api",
+  "version": "0.0.1"
 }
